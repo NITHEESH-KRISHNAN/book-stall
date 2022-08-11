@@ -1,0 +1,35 @@
+div{
+    background-color: goldenrod;
+    width: 20%;
+    height: 600px;
+    color: blue;
+    margin: 10px;
+    float: left;
+
+}
+
+
+div h2{
+    color: aliceblue;
+    padding: 10px;
+}
+div h3{
+    color: aliceblue;
+    padding: 10px;
+}
+
+#d1{
+    float: left;
+}
+#d2{
+    float: left;
+}
+#d3{
+    float: left;
+} 
+img{
+    width: 100%;
+}
+div a{
+    padding: 10px;
+}
